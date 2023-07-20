@@ -8,7 +8,7 @@ export default function Home() {
       <h1 className="text-white text-7xl font-bold">Under Construction</h1>
       <div className="flex flex-col justify-center items-center">
         <p className="text-white">
-          The only St Mary's computer science department website
+          The only St Marys computer science department website
         </p>
         <p className="text-white">Lorem ipsum</p>
       </div>
